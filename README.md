@@ -1,1 +1,1 @@
-# this is simple clock react project
+# this is simple clock react project.
